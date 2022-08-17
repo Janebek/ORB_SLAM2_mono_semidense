@@ -1,0 +1,10 @@
+/home/ivip/Janebek/ORB_SLAM2_semidense/build/CMakeFiles/rebuild_cache.dir
+/home/ivip/Janebek/ORB_SLAM2_semidense/build/CMakeFiles/edit_cache.dir
+/home/ivip/Janebek/ORB_SLAM2_semidense/build/CMakeFiles/bin_vocabulary.dir
+/home/ivip/Janebek/ORB_SLAM2_semidense/build/CMakeFiles/mono_semidense.dir
+/home/ivip/Janebek/ORB_SLAM2_semidense/build/CMakeFiles/mono_hyj.dir
+/home/ivip/Janebek/ORB_SLAM2_semidense/build/CMakeFiles/ORB_SLAM2.dir
+/home/ivip/Janebek/ORB_SLAM2_semidense/build/CMakeFiles/rgbd_tum.dir
+/home/ivip/Janebek/ORB_SLAM2_semidense/build/CMakeFiles/stereo_kitti.dir
+/home/ivip/Janebek/ORB_SLAM2_semidense/build/CMakeFiles/mono_kitti.dir
+/home/ivip/Janebek/ORB_SLAM2_semidense/build/CMakeFiles/mono_tum.dir
